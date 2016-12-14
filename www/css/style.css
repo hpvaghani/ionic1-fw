@@ -1,0 +1,17 @@
+.spinner.light svg {
+    stroke: #fefefe !important;
+    fill: #fefefe !important;
+}
+
+.popup{
+    border-radius: 5px !important;
+    width: 100% !important;
+    margin: 10px;
+    text-align: center;
+}
+
+ion-item span{
+    color:gray;
+    font-size:small;
+    opacity:0.5;
+}
