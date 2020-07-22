@@ -1,1 +1,1 @@
-# ionic Framework (designed and implemented by @hvadotnarola)
+# ionic Framework (designed and implemented by @hardikvaghani)
